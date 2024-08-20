@@ -1,0 +1,29 @@
+
+
+h2 {
+    color: #333;       /*h2 is used to give the color*/
+}
+
+.input-section {             /*it is used to get the size of the input section*/
+    margin-top: 20px;
+}
+
+input[type="text"] {           /*here we tell the whiuch type of text is to be get from the user and color and padding*/
+    width: 70%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+button {                              /*it is used to get the disign the button of padding ,color*/
+    padding: 10px 20px;                
+    background-color: green;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.weather-info {                     /*it is used to get the size of the weather information*/
+    margin-top: 20px;
+}
